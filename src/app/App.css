@@ -1,0 +1,30 @@
+html, body { height: auto; }
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.panel{
+  /* width: 100%; */
+  height: 100vh;
+  position: sticky;
+  top: 0;
+}
+.title{
+  background-color: yellowgreen
+}
+.quran{
+  background-color: tomato;
+  background-image: url(../../public/city.jpg);
+}
+.stats{
+  background-color: aquamarine;
+}
+.progress{
+  background-color: darkgoldenrod;
+}
+.donate{
+  background-color: cornflowerblue;
+}
