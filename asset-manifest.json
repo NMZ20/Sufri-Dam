@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Sufri-Dam/static/css/main.6f467d7e.css",
+    "main.js": "/Sufri-Dam/static/js/main.3f631da2.js",
+    "static/js/787.cb3653c4.chunk.js": "/Sufri-Dam/static/js/787.cb3653c4.chunk.js",
+    "static/media/sufri-wadi.jpg": "/Sufri-Dam/static/media/sufri-wadi.98e03ac67c1c31799a3a.jpg",
+    "static/media/dam1.jpeg": "/Sufri-Dam/static/media/dam1.86ccc156e82febe6819e.jpeg",
+    "static/media/dam3.jpeg": "/Sufri-Dam/static/media/dam3.226a7b07b3edaf23efec.jpeg",
+    "static/media/dam2.jpeg": "/Sufri-Dam/static/media/dam2.39333c855a427b0502e8.jpeg",
+    "index.html": "/Sufri-Dam/index.html",
+    "main.6f467d7e.css.map": "/Sufri-Dam/static/css/main.6f467d7e.css.map",
+    "main.3f631da2.js.map": "/Sufri-Dam/static/js/main.3f631da2.js.map",
+    "787.cb3653c4.chunk.js.map": "/Sufri-Dam/static/js/787.cb3653c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f467d7e.css",
+    "static/js/main.3f631da2.js"
+  ]
+}
