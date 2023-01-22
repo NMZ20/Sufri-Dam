@@ -1,7 +1,7 @@
 {
   "name": "sufri-dam",
   "version": "0.1.0",
-  "homepage": "https://NMZ20.github.io/Sufri-Dam",
+  "homepage": "http://www.sufridam.com/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
