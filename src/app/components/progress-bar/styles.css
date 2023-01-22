@@ -1,0 +1,34 @@
+.progress-bar-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.progress-bar-base {
+  width: 90%;
+  height: 50px;
+  background-color: rgb(220, 220, 220);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.progress-bar-progress {
+  height: 100%;
+  width: 50%;
+  background-color: gold;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.progress-bar-progress-percentage {
+  margin-right: 10px;
+  font-size: 24px;
+}
+
+.progress-bar-text {
+  display: flex;
+  font-size: 32px;
+}

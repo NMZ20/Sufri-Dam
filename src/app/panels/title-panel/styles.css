@@ -1,0 +1,19 @@
+.title-panel-container {
+  width: 100%;
+  height: 100%;
+  background-image: url("../../../assets/sufri-wadi.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title-panel-title {
+  color: white;
+  font-size: 13vw;
+  font-weight: 700;
+  line-height: 12vw;
+}
