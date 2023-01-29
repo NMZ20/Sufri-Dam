@@ -1,10 +1,10 @@
 .progress-panel-container {
   width: 100%;
-  height: 100%;
   background-color: white;
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding-top: 50px;
 }
 
 .progress-panel-title {
@@ -19,6 +19,24 @@
   margin: 0px 20px 0px 20px;
   background-color: gold;
   padding: 20px;
+  border-radius: 20px;
+}
+
+.progress-panel-funding-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.progress-panel-funding-percentage {
+  font-size: 72px;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 42px;
+  background-color: gold;
+}
+.progress-panel-funding-title {
+  font-size: 32px;
+  font-weight: 500;
   border-radius: 20px;
 }
 

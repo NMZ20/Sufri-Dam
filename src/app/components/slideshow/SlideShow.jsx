@@ -21,6 +21,9 @@ const slideImages = [
   {
     url: require("../../../assets/dam3.jpeg"),
   },
+  {
+    url: require("../../../assets/dam.png"),
+  },
 ];
 
 function SlideShow() {
