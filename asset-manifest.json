@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b05fc82f.css",
-    "main.js": "/static/js/main.9511dfc2.js",
+    "main.css": "/static/css/main.d6b39a62.css",
+    "main.js": "/static/js/main.d6de0239.js",
     "static/js/787.cb3653c4.chunk.js": "/static/js/787.cb3653c4.chunk.js",
     "static/media/dam.png": "/static/media/dam.d159a3d9263b440e36c4.png",
     "static/media/sufri-wadi.jpg": "/static/media/sufri-wadi.98e03ac67c1c31799a3a.jpg",
@@ -9,12 +9,12 @@
     "static/media/dam3.jpeg": "/static/media/dam3.226a7b07b3edaf23efec.jpeg",
     "static/media/dam2.jpeg": "/static/media/dam2.39333c855a427b0502e8.jpeg",
     "index.html": "/index.html",
-    "main.b05fc82f.css.map": "/static/css/main.b05fc82f.css.map",
-    "main.9511dfc2.js.map": "/static/js/main.9511dfc2.js.map",
+    "main.d6b39a62.css.map": "/static/css/main.d6b39a62.css.map",
+    "main.d6de0239.js.map": "/static/js/main.d6de0239.js.map",
     "787.cb3653c4.chunk.js.map": "/static/js/787.cb3653c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b05fc82f.css",
-    "static/js/main.9511dfc2.js"
+    "static/css/main.d6b39a62.css",
+    "static/js/main.d6de0239.js"
   ]
 }
